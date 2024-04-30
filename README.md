@@ -4,3 +4,5 @@ The AI Learning Hub is a group of alums of the UT McComb School AI/ML postgradua
 3. a salesbot fine-tuned using RAG
 4. incorporating text-to-speech
 5. an AI assistant that uses multiple agents
+
+When you join the repository, please create your own branch to work on. Do not commit to the main branch without permission. 
